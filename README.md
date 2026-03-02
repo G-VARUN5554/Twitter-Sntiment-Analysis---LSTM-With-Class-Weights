@@ -1,0 +1,2 @@
+# Twitter-Sntiment-Analysis---LSTM-With-Class-Weights
+Twitter Sentiment Analysis App is a Streamlit-based web application that classifies short texts, like tweets, into Negative, Neutral, or Positive sentiments using a pre-trained Bi-LSTM neural network model. ​  Key Features Analyzes user-input text via a simple textarea interface. ​  Displays sentiment label and probability breakdown for each class.
